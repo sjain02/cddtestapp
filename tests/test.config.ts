@@ -1,3 +1,3 @@
 
-// export const TEST_URL: string = "file:///D:/workspace/nolio/JavaScript-Sample-Application/index.html";
+// you shoulc change the TEST_URL to point to the target environment you want to test;
 export const TEST_URL: string = "http://localhost:9000/";
